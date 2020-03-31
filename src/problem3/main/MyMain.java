@@ -7,9 +7,9 @@ import problem3.myqueue.MyPriorityQueue;
 public class MyMain {
     public static void main(String[] args) {
         MyPriorityQueue mpq = new MyPriorityQueue();
-        mpq.push("ashi", 1);
-        mpq.push("anshika", 2);
-        mpq.push("anamika", 3);
+        mpq.push("shiv", 1);
+        mpq.push("shivam", 2);
+        mpq.push("shivansh", 3);
         mpq.display();
     }
 }
